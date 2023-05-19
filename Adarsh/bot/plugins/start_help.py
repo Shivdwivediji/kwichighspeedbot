@@ -61,8 +61,8 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/The_Silent_Teams"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/Robo_5_0")],
-                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+7oYmGSQxCW5lZTE1"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/+JwTXLc_UO9o5Mjc1")],
-                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/+JwTXLc_UO9o5Mjc1")]
+                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+siOFt_rvsnJkNjY9"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/+siOFt_rvsnJkNjY9")],
+                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/silentautobot")]
                 ]
             ),
             
@@ -179,8 +179,8 @@ async def help_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/The_Silent_Teams"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/Robo_5_0")],
-                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+7oYmGSQxCW5lZTE1"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/+JwTXLc_UO9o5Mjc1")],
-                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/+JwTXLc_UO9o5Mjc1")]
+                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+siOFt_rvsnJkNjY9"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/+siOFt_rvsnJkNjY9")],
+                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/silentautobot")]
             ]
         )
     )
@@ -237,7 +237,7 @@ async def about_handler(bot, message):
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : Sab Moh Maya hai😁</b>
-┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/+JwTXLc_UO9o5Mjc1'>The Silent Teams</a></b>
+┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='hhttps://t.me/+siOFt_rvsnJkNjY9'>The Silent Teams</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀse sᴜᴘᴘᴏʀᴛ〕</b>""",
   
@@ -245,8 +245,8 @@ async def about_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/The_Silent_Teams"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/Robo_5_0")],
-                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+7oYmGSQxCW5lZTE1"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/+JwTXLc_UO9o5Mjc1")],
-                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/+JwTXLc_UO9o5Mjc1")]
+                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/+siOFt_rvsnJkNjY9"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/+siOFt_rvsnJkNjY9")],
+                    [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/silentautobot")]
             ]
         )
     )
